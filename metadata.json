@@ -1,0 +1,5 @@
+{
+  "name": "JSON Text Classifier",
+  "description": "A React web application to classify text content within JSON data using the Gemini API.",
+  "requestFramePermissions": []
+}
